@@ -1,0 +1,8 @@
+C:\Users\786\source\repos\23011556-044\Inheritence\Inheritence\bin\Debug\Inheritence.exe.config
+C:\Users\786\source\repos\23011556-044\Inheritence\Inheritence\bin\Debug\Inheritence.exe
+C:\Users\786\source\repos\23011556-044\Inheritence\Inheritence\bin\Debug\Inheritence.pdb
+C:\Users\786\source\repos\23011556-044\Inheritence\Inheritence\obj\Debug\Inheritence.csproj.AssemblyReference.cache
+C:\Users\786\source\repos\23011556-044\Inheritence\Inheritence\obj\Debug\Inheritence.csproj.CoreCompileInputs.cache
+C:\Users\786\source\repos\23011556-044\Inheritence\Inheritence\obj\Debug\Inheritence.exe
+C:\Users\786\source\repos\23011556-044\Inheritence\Inheritence\obj\Debug\Inheritence.pdb
+C:\Users\786\source\repos\23011556-044\Inheritence\Inheritence\obj\Debug\Inheritence.exe.config

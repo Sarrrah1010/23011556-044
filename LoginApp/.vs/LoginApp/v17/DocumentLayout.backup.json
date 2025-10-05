@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\786\\source\\repos\\23011556-044\\LoginApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5D1C27-3EE2-4D95-9864-7086AF250293}|LoginApp\\LoginApp.csproj|c:\\users\\786\\source\\repos\\23011556-044\\loginapp\\loginapp\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B5D1C27-3EE2-4D95-9864-7086AF250293}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5D1C27-3EE2-4D95-9864-7086AF250293}|LoginApp\\LoginApp.csproj|c:\\users\\786\\source\\repos\\23011556-044\\loginapp\\loginapp\\homeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5D1C27-3EE2-4D95-9864-7086AF250293}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\homeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5D1C27-3EE2-4D95-9864-7086AF250293}|LoginApp\\LoginApp.csproj|c:\\users\\786\\source\\repos\\23011556-044\\loginapp\\loginapp\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5D1C27-3EE2-4D95-9864-7086AF250293}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5D1C27-3EE2-4D95-9864-7086AF250293}|LoginApp\\LoginApp.csproj|c:\\users\\786\\source\\repos\\23011556-044\\loginapp\\loginapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5D1C27-3EE2-4D95-9864-7086AF250293}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5D1C27-3EE2-4D95-9864-7086AF250293}|LoginApp\\LoginApp.csproj|c:\\users\\786\\source\\repos\\23011556-044\\loginapp\\loginapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B5D1C27-3EE2-4D95-9864-7086AF250293}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\786\\source\\repos\\23011556-044\\LoginApp\\LoginApp\\HomeForm.Designer.cs",
+              "RelativeDocumentMoniker": "LoginApp\\HomeForm.Designer.cs",
+              "ToolTip": "C:\\Users\\786\\source\\repos\\23011556-044\\LoginApp\\LoginApp\\HomeForm.Designer.cs*",
+              "RelativeToolTip": "LoginApp\\HomeForm.Designer.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T13:20:42.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeForm.cs",
+              "DocumentMoniker": "C:\\Users\\786\\source\\repos\\23011556-044\\LoginApp\\LoginApp\\HomeForm.cs",
+              "RelativeDocumentMoniker": "LoginApp\\HomeForm.cs",
+              "ToolTip": "C:\\Users\\786\\source\\repos\\23011556-044\\LoginApp\\LoginApp\\HomeForm.cs*",
+              "RelativeToolTip": "LoginApp\\HomeForm.cs*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T13:19:45.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\786\\source\\repos\\23011556-044\\LoginApp\\LoginApp\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginApp\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\786\\source\\repos\\23011556-044\\LoginApp\\LoginApp\\LoginForm.cs*",
+              "RelativeToolTip": "LoginApp\\LoginForm.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T13:07:50.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\786\\source\\repos\\23011556-044\\LoginApp\\LoginApp\\HomeForm.cs",
+              "RelativeDocumentMoniker": "LoginApp\\HomeForm.cs",
+              "ToolTip": "C:\\Users\\786\\source\\repos\\23011556-044\\LoginApp\\LoginApp\\HomeForm.cs [Design]*",
+              "RelativeToolTip": "LoginApp\\HomeForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T13:06:51.508Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\786\\source\\repos\\23011556-044\\LoginApp\\LoginApp\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginApp\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\786\\source\\repos\\23011556-044\\LoginApp\\LoginApp\\LoginForm.cs [Design]*",
+              "RelativeToolTip": "LoginApp\\LoginForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T13:04:28.67Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

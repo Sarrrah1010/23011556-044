@@ -1,0 +1,9 @@
+C:\Users\786\source\repos\23011556-044\LoginApp\LoginApp\obj\Debug\net8.0-windows\LoginApp.HomePage.resources
+C:\Users\786\source\repos\23011556-044\LoginApp\LoginApp\obj\Debug\net8.0-windows\LoginApp.LoginForm.resources
+C:\Users\786\source\repos\23011556-044\LoginApp\LoginApp\obj\Debug\net8.0-windows\LoginApp.Properties.Resources.resources
+C:\Users\786\source\repos\23011556-044\LoginApp\LoginApp\obj\Debug\net8.0-windows\LoginApp.csproj.GenerateResource.cache
+C:\Users\786\source\repos\23011556-044\LoginApp\LoginApp\obj\Debug\net8.0-windows\LoginApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\786\source\repos\23011556-044\LoginApp\LoginApp\obj\Debug\net8.0-windows\LoginApp.AssemblyInfoInputs.cache
+C:\Users\786\source\repos\23011556-044\LoginApp\LoginApp\obj\Debug\net8.0-windows\LoginApp.AssemblyInfo.cs
+C:\Users\786\source\repos\23011556-044\LoginApp\LoginApp\obj\Debug\net8.0-windows\LoginApp.csproj.CoreCompileInputs.cache
+C:\Users\786\source\repos\23011556-044\LoginApp\LoginApp\obj\Debug\net8.0-windows\LoginApp.sourcelink.json

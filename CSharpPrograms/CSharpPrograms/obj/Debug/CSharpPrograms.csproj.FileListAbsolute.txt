@@ -1,0 +1,8 @@
+C:\Users\786\source\repos\23011556-044\CSharpPrograms\CSharpPrograms\obj\Debug\CSharpPrograms.csproj.AssemblyReference.cache
+C:\Users\786\source\repos\23011556-044\CSharpPrograms\CSharpPrograms\obj\Debug\CSharpPrograms.csproj.CoreCompileInputs.cache
+C:\Users\786\source\repos\23011556-044\CSharpPrograms\CSharpPrograms\bin\Debug\CSharpPrograms.exe.config
+C:\Users\786\source\repos\23011556-044\CSharpPrograms\CSharpPrograms\bin\Debug\CSharpPrograms.exe
+C:\Users\786\source\repos\23011556-044\CSharpPrograms\CSharpPrograms\bin\Debug\CSharpPrograms.pdb
+C:\Users\786\source\repos\23011556-044\CSharpPrograms\CSharpPrograms\obj\Debug\CSharpPrograms.exe
+C:\Users\786\source\repos\23011556-044\CSharpPrograms\CSharpPrograms\obj\Debug\CSharpPrograms.pdb
+C:\Users\786\source\repos\23011556-044\CSharpPrograms\CSharpPrograms\obj\Debug\CSharpPrograms.exe.config

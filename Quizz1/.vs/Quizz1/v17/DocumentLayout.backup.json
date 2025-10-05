@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\786\\source\\repos\\23011556-044\\Quizz1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52D96478-6291-4132-8367-042C0FBA13DC}|Quizz1\\Quizz1.csproj|C:\\Users\\786\\source\\repos\\23011556-044\\Quizz1\\quizz1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52D96478-6291-4132-8367-042C0FBA13DC}|Quizz1\\Quizz1.csproj|solutionrelative:quizz1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D96478-6291-4132-8367-042C0FBA13DC}|Quizz1\\Quizz1.csproj|c:\\users\\786\\source\\repos\\23011556-044\\quizz1\\quizz1\\runtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52D96478-6291-4132-8367-042C0FBA13DC}|Quizz1\\Quizz1.csproj|solutionrelative:quizz1\\runtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D96478-6291-4132-8367-042C0FBA13DC}|Quizz1\\Quizz1.csproj|c:\\users\\786\\source\\repos\\23011556-044\\quizz1\\quizz1\\single inheritence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52D96478-6291-4132-8367-042C0FBA13DC}|Quizz1\\Quizz1.csproj|solutionrelative:quizz1\\single inheritence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D96478-6291-4132-8367-042C0FBA13DC}|Quizz1\\Quizz1.csproj|C:\\Users\\786\\source\\repos\\23011556-044\\Quizz1\\quizz1\\evenodd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52D96478-6291-4132-8367-042C0FBA13DC}|Quizz1\\Quizz1.csproj|solutionrelative:quizz1\\evenodd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D96478-6291-4132-8367-042C0FBA13DC}|Quizz1\\Quizz1.csproj|C:\\Users\\786\\source\\repos\\23011556-044\\Quizz1\\quizz1\\static.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52D96478-6291-4132-8367-042C0FBA13DC}|Quizz1\\Quizz1.csproj|solutionrelative:quizz1\\static.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D96478-6291-4132-8367-042C0FBA13DC}|Quizz1\\Quizz1.csproj|C:\\Users\\786\\source\\repos\\23011556-044\\Quizz1\\quizz1\\methodoverload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52D96478-6291-4132-8367-042C0FBA13DC}|Quizz1\\Quizz1.csproj|solutionrelative:quizz1\\methodoverload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D96478-6291-4132-8367-042C0FBA13DC}|Quizz1\\Quizz1.csproj|C:\\Users\\786\\source\\repos\\23011556-044\\Quizz1\\quizz1\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52D96478-6291-4132-8367-042C0FBA13DC}|Quizz1\\Quizz1.csproj|solutionrelative:quizz1\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D96478-6291-4132-8367-042C0FBA13DC}|Quizz1\\Quizz1.csproj|C:\\Users\\786\\source\\repos\\23011556-044\\Quizz1\\quizz1\\sumofno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52D96478-6291-4132-8367-042C0FBA13DC}|Quizz1\\Quizz1.csproj|solutionrelative:quizz1\\sumofno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D96478-6291-4132-8367-042C0FBA13DC}|Quizz1\\Quizz1.csproj|C:\\Users\\786\\source\\repos\\23011556-044\\Quizz1\\quizz1\\cube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52D96478-6291-4132-8367-042C0FBA13DC}|Quizz1\\Quizz1.csproj|solutionrelative:quizz1\\cube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\786\\source\\repos\\23011556-044\\Quizz1\\Quizz1\\Program.cs",
+              "RelativeDocumentMoniker": "Quizz1\\Program.cs",
+              "ToolTip": "C:\\Users\\786\\source\\repos\\23011556-044\\Quizz1\\Quizz1\\Program.cs",
+              "RelativeToolTip": "Quizz1\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T06:50:02.283Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EvenODD.cs",
+              "DocumentMoniker": "C:\\Users\\786\\source\\repos\\23011556-044\\Quizz1\\Quizz1\\EvenODD.cs",
+              "RelativeDocumentMoniker": "Quizz1\\EvenODD.cs",
+              "ToolTip": "C:\\Users\\786\\source\\repos\\23011556-044\\Quizz1\\Quizz1\\EvenODD.cs",
+              "RelativeToolTip": "Quizz1\\EvenODD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T07:06:01.973Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Runtime.cs",
+              "DocumentMoniker": "C:\\Users\\786\\source\\repos\\23011556-044\\Quizz1\\Quizz1\\Runtime.cs",
+              "RelativeDocumentMoniker": "Quizz1\\Runtime.cs",
+              "ToolTip": "C:\\Users\\786\\source\\repos\\23011556-044\\Quizz1\\Quizz1\\Runtime.cs",
+              "RelativeToolTip": "Quizz1\\Runtime.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T07:10:52.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SINGLE INHERITENCE.cs",
+              "DocumentMoniker": "C:\\Users\\786\\source\\repos\\23011556-044\\Quizz1\\Quizz1\\SINGLE INHERITENCE.cs",
+              "RelativeDocumentMoniker": "Quizz1\\SINGLE INHERITENCE.cs",
+              "ToolTip": "C:\\Users\\786\\source\\repos\\23011556-044\\Quizz1\\Quizz1\\SINGLE INHERITENCE.cs",
+              "RelativeToolTip": "Quizz1\\SINGLE INHERITENCE.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T08:04:08.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "STATIC.cs",
+              "DocumentMoniker": "C:\\Users\\786\\source\\repos\\23011556-044\\Quizz1\\Quizz1\\STATIC.cs",
+              "RelativeDocumentMoniker": "Quizz1\\STATIC.cs",
+              "ToolTip": "C:\\Users\\786\\source\\repos\\23011556-044\\Quizz1\\Quizz1\\STATIC.cs",
+              "RelativeToolTip": "Quizz1\\STATIC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T07:46:33.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CALCULATOR.cs",
+              "DocumentMoniker": "C:\\Users\\786\\source\\repos\\23011556-044\\Quizz1\\Quizz1\\CALCULATOR.cs",
+              "RelativeDocumentMoniker": "Quizz1\\CALCULATOR.cs",
+              "ToolTip": "C:\\Users\\786\\source\\repos\\23011556-044\\Quizz1\\Quizz1\\CALCULATOR.cs",
+              "RelativeToolTip": "Quizz1\\CALCULATOR.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T07:43:52.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MethodOverload.cs",
+              "DocumentMoniker": "C:\\Users\\786\\source\\repos\\23011556-044\\Quizz1\\Quizz1\\MethodOverload.cs",
+              "RelativeDocumentMoniker": "Quizz1\\MethodOverload.cs",
+              "ToolTip": "C:\\Users\\786\\source\\repos\\23011556-044\\Quizz1\\Quizz1\\MethodOverload.cs",
+              "RelativeToolTip": "Quizz1\\MethodOverload.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T07:36:28.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "cube.cs",
+              "DocumentMoniker": "C:\\Users\\786\\source\\repos\\23011556-044\\Quizz1\\Quizz1\\cube.cs",
+              "RelativeDocumentMoniker": "Quizz1\\cube.cs",
+              "ToolTip": "C:\\Users\\786\\source\\repos\\23011556-044\\Quizz1\\Quizz1\\cube.cs",
+              "RelativeToolTip": "Quizz1\\cube.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T07:31:38.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "sumOFNO.cs",
+              "DocumentMoniker": "C:\\Users\\786\\source\\repos\\23011556-044\\Quizz1\\Quizz1\\sumOFNO.cs",
+              "RelativeDocumentMoniker": "Quizz1\\sumOFNO.cs",
+              "ToolTip": "C:\\Users\\786\\source\\repos\\23011556-044\\Quizz1\\Quizz1\\sumOFNO.cs",
+              "RelativeToolTip": "Quizz1\\sumOFNO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T07:18:36.9Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

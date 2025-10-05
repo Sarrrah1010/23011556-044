@@ -44,12 +44,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Calculator.cs" />
+    <Compile Include="Class1.cs" />
     <Compile Include="EvenOrOdd.cs" />
+    <Compile Include="EvenOrOddArray.cs" />
     <Compile Include="FactorialCalculator.cs" />
+    <Compile Include="GradeEvaluator.cs" />
     <Compile Include="Min-Max.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ReverseNumbers.cs" />
+    <Compile Include="SearchElementArray.cs" />
     <Compile Include="SumOfNaturalNumbers.cs" />
     <Compile Include="TableOFN.cs" />
   </ItemGroup>
